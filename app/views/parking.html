@@ -1,0 +1,39 @@
+<div>
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h1>Informations parking</h1>
+			</div>
+			<div class="panel-body">
+				<ul>
+					<li> Id du parking : {{id}}</li><br/>
+					<li> Nom : {{nom}}</li><br/>
+					<li> Type : {{type}}</li><br/>
+					<li> Nombre de places : {{nbplaces}}</li><br/>
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+		<div class="panel panel-default">
+			<div class="panel-body">
+				<div ng-app="ngMap">
+					<ng-map zoom-to-include-markers='true'>
+						<marker position="{{marker.position}}" title="{{marker.title}}"></marker>
+						<marker position="current-location" title="Vous êtes ici" draggable="true" ></marker>
+						<directions
+								draggable="true"
+								travel-mode="DRIVING"
+								origin="current-location"
+								destination="{{marker.position}}">
+						</directions>
+					</ng-map>
+				</div>
+			</div>
+		</div>
+	</div>
+	<a class="btn btn-default" href="#/">
+		<span>Retour</span>
+	</a>
+</div>

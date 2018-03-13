@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "parking_y": 6569894.18996079,
+      "parking_nom": "Jean Moulin",
+      "parking_x": 380563.353043126,
+      "parking_id": 1,
+      "parking_type": "parking relais",
+      "parking_nb_places": 600,
+      "parking_libelle": "Parking Jean Moulin"
+    },
+    {
+      "parking_y": 6572685.19908063,
+      "parking_nom": "Les gonthières",
+      "parking_x": 379972.672433765,
+      "parking_id": 2,
+      "parking_type": "parking relais",
+      "parking_nb_places": null,
+      "parking_libelle": "Parking relais CDA Les gonthières"
+    },
+    {
+      "parking_y": 6572612.39059319,
+      "parking_nom": "Les gonthières",
+      "parking_x": 379834.429261454,
+      "parking_id": 3,
+      "parking_type": "parking relais",
+      "parking_nb_places": null,
+      "parking_libelle": "Parking relais CDA Les gonthières"
+    },
+    {
+      "parking_y": 6569682.94080835,
+      "parking_nom": "Encan",
+      "parking_x": 379864.062986826,
+      "parking_id": 4,
+      "parking_type": "parking en enclos",
+      "parking_nb_places": 430,
+      "parking_libelle": "Parking de l'Encan"
+    },
+    {
+      "parking_y": 6570179.2092431,
+      "parking_nom": "St Jean d'Acre",
+      "parking_x": 379378.696053463,
+      "parking_id": 5,
+      "parking_type": "parking en enclos",
+      "parking_nb_places": 430,
+      "parking_libelle": "Esplanade Saint-Jean d'Acre"
+    },
+    {
+      "parking_y": 6571150.25827567,
+      "parking_nom": "Notre Dame",
+      "parking_x": 380259.651743836,
+      "parking_id": 6,
+      "parking_type": "parking gratuit",
+      "parking_nb_places": 650,
+      "parking_libelle": "Notre Dame"
+    },
+    {
+      "parking_y": 6571369.24375434,
+      "parking_nom": "Esplanade",
+      "parking_x": 379586.562316161,
+      "parking_id": 7,
+      "parking_type": "parking gratuit",
+      "parking_nb_places": 200,
+      "parking_libelle": "Esplanade"
+    },
+    {
+      "parking_y": 6569455.36300468,
+      "parking_nom": null,
+      "parking_x": 379758.243581786,
+      "parking_id": 8,
+      "parking_type": "parking gratuit",
+      "parking_nb_places": null,
+      "parking_libelle": null
+    },
+    {
+      "parking_y": 6570178.57058006,
+      "parking_nom": null,
+      "parking_x": 379703.44758865,
+      "parking_id": 9,
+      "parking_type": "parking gratuit",
+      "parking_nb_places": null,
+      "parking_libelle": null
+    },
+    {
+      "parking_y": 6570396.2169844,
+      "parking_nom": null,
+      "parking_x": 379250.291295794,
+      "parking_id": 10,
+      "parking_type": "parking gratuit",
+      "parking_nb_places": null,
+      "parking_libelle": null
+    },
+    {
+      "parking_y": 6570604.43996057,
+      "parking_nom": null,
+      "parking_x": 379356.013874317,
+      "parking_id": 11,
+      "parking_type": "parking gratuit",
+      "parking_nb_places": null,
+      "parking_libelle": null
+    },
+    {
+      "parking_y": 6570823.58353887,
+      "parking_nom": null,
+      "parking_x": 379443.716120885,
+      "parking_id": 12,
+      "parking_type": "parking gratuit",
+      "parking_nb_places": null,
+      "parking_libelle": null
+    },
+    {
+      "parking_y": 6569768.55649416,
+      "parking_nom": null,
+      "parking_x": 379465.452618596,
+      "parking_id": 13,
+      "parking_type": "parking gratuit",
+      "parking_nb_places": null,
+      "parking_libelle": null
+    },
+    {
+      "parking_y": 6570161.46159321,
+      "parking_nom": null,
+      "parking_x": 380353.236387368,
+      "parking_id": 14,
+      "parking_type": "parking gratuit",
+      "parking_nb_places": null,
+      "parking_libelle": null
+    },
+    {
+      "parking_y": 6570221.00786509,
+      "parking_nom": null,
+      "parking_x": 379213.483990329,
+      "parking_id": 15,
+      "parking_type": "parking gratuit",
+      "parking_nb_places": null,
+      "parking_libelle": null
+    },
+    {
+      "parking_y": 6570946.77561493,
+      "parking_nom": "Verdun",
+      "parking_x": 379670.377120847,
+      "parking_id": 16,
+      "parking_type": "parking souterrain",
+      "parking_nb_places": 567,
+      "parking_libelle": "Parking de Vedrun"
+    },
+    {
+      "parking_y": 6570032.62381534,
+      "parking_nom": "Vieux Port",
+      "parking_x": 379925.99731268,
+      "parking_id": 17,
+      "parking_type": "parking souterrain",
+      "parking_nb_places": 611,
+      "parking_libelle": "Parking souterrain du Vieux Port"
+    },
+    {
+      "parking_y": 6570160.4810886,
+      "parking_nom": "Bastion",
+      "parking_x": 380056.875726074,
+      "parking_id": 18,
+      "parking_type": "parking abonnés",
+      "parking_nb_places": 200,
+      "parking_libelle": "Bastion"
+    },
+    {
+      "parking_y": 6570609.0396215,
+      "parking_nom": "Arsenal",
+      "parking_x": 379988.71513503,
+      "parking_id": 19,
+      "parking_type": "parking souterrain",
+      "parking_nb_places": 241,
+      "parking_libelle": "Parking souterrain de l'Arsenal"
+    }
+  ]
+}
+

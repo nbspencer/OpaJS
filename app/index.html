@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html data-ng-app="OpendataApp">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>Parking</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="lib/angular-material.min.css">
+        <link rel="stylesheet" href="lib/bootstrap.css">
+        <link rel="stylesheet" href="lib/bootstrap-theme.min.css">
+		<link rel="stylesheet" href="styles/app.css">
+
+    </head>
+	<header>
+		
+		
+    </header>
+    <body>
+
+		<ng-view></ng-view>
+		
+        <script src="lib/angular/angular.min.js"></script>
+        <script src="lib/angular/angular-aria.min.js"></script>
+        <script src="lib/angular/angular-animate.min.js"></script>
+        <script src="lib/angular/angular-route.min.js"></script>
+		<script src="lib/angular/angular-sanitize.min.js"></script>
+        <script src="lib/angular-material.min.js"></script>
+		<script src="lib/ui-bootstrap-tpls-1.2.5.min.js"></script>
+		
+		<script src="lib/smart-table.min.js"></script>
+		
+        <script src="js/directives/ng-map.min.js"></script>
+        <script src="lib/angular/proj4.js"></script>
+
+        <script src="js/app.js"></script>
+
+
+		<script src="js/controller/accueilController.js"></script>
+        <script src="js/controller/parkingController.js"></script>
+		<script src="js/service/parkingService.js"></script>
+        <script src="js/service/projection.js"></script>
+        <script async defer src="https://maps.googleapis.com/maps/api/js"></script>
+    </body>
+</html>

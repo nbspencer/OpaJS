@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "dp_nb_places": 611,
+      "dp_id": 1350721,
+      "dp_place_disponible": 457,
+      "dp_parc_id": 17,
+      "dp_date": "08-03-2016 01:05:33",
+      "dp_x": 379925.9973126798,
+      "dp_libelle": "VIEUX PORT",
+      "dp_y": 6570032.623815341
+    },
+    {
+      "dp_nb_places": 430,
+      "dp_id": 1350722,
+      "dp_place_disponible": 406,
+      "dp_parc_id": 4,
+      "dp_date": "07-03-2016 09:24:09",
+      "dp_x": 379864.062986826,
+      "dp_libelle": "ENCAN",
+      "dp_y": 6569682.940808346
+    },
+    {
+      "dp_nb_places": 430,
+      "dp_id": 1350723,
+      "dp_place_disponible": 251,
+      "dp_parc_id": 5,
+      "dp_date": "08-03-2016 01:05:32",
+      "dp_x": 379378.69605346315,
+      "dp_libelle": "ST JEAN D'ACRE",
+      "dp_y": 6570179.209243104
+    },
+    {
+      "dp_nb_places": 567,
+      "dp_id": 1350724,
+      "dp_place_disponible": 240,
+      "dp_parc_id": 16,
+      "dp_date": "08-03-2016 01:05:35",
+      "dp_x": 379670.3771208469,
+      "dp_libelle": "VERDUN",
+      "dp_y": 6570946.775614928
+    }
+  ]
+}
+
